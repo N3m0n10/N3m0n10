@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-  *Control and Automation Engineering student!*
+  *Automation and Control Engineering student!*
   
 
 <!--
